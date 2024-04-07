@@ -13,9 +13,9 @@ body {
     text-align: center;
     margin: 0;
     font-size: 8em;
-    font-family: "Helvetica";
+    font-family: "cursive";
     font-weight: normal;
-    color: white;
+    color: blue;
 }
 
 #card-container {
@@ -34,8 +34,8 @@ body {
 
 .card-content {
     padding: 20px;
-    font-family: "Verdana";
-    color: #777;
+    font-family: "Georgiam serif";
+    color: #a07976;
 }
 
 .card-content h2 {
@@ -57,7 +57,7 @@ body {
 
 button {
     text-align: center;
-    background-color: #666;
+    background-color: #52dbbd;
     border: none;
     padding-left: 10px;
     padding-right: 10px;
